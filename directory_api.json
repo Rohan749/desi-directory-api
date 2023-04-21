@@ -1,6 +1,70 @@
 {
   "automotives": [
     {
+    "name": "Mahindra First Choice Wheels",
+    "description": "Mahindra First Choice Wheels is a multi-brand used car dealership in Bangalore. It offers a wide range of pre-owned cars with warranty and other services.",
+    "rating": 4.1,
+    "location": "Bannerghatta Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
+    "comments": [
+      {
+        "name": "Alice",
+        "comment": "I bought a used Maruti Suzuki Swift from here and it was in great condition!"
+      },
+      {
+        "name": "David",
+        "comment": "The staff here is very helpful and they have a great selection of cars."
+      }
+    ]
+  },
+  {
+    "name": "TVS Motor Company",
+    "description": "TVS Motor Company is a leading two-wheeler manufacturer in India. It offers a wide range of motorcycles and scooters in Bangalore.",
+    "rating": 4.2,
+    "location": "Bannerghatta Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
+    "comments": [
+      {
+        "name": "Chris",
+        "comment": "I recently bought a TVS Apache RTR 160 from here and it's a great bike."
+      },
+      {
+        "name": "Emily",
+        "comment": "The service center here is very efficient and they have genuine parts."
+      }
+    ]
+  },
+  {
+    "name": "Ford Service Center",
+    "description": "Ford Service Center is an authorized service center for Ford cars in Bangalore. It offers a wide range of services including repairs, maintenance, and warranty.",
+    "rating": 4.0,
+    "location": "8th Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
+    "comments": [
+      {
+        "name": "Mike",
+        "comment": "I got my Ford Figo serviced from here and the staff was very professional."
+      },
+      {
+        "name": "Linda",
+        "comment": "The waiting lounge here is very comfortable and they have complimentary snacks and beverages."
+      }
+    ]
+  },
+  {
+    "name": "Hyundai Motor Plaza",
+    "description": "Hyundai Motor Plaza is an authorized dealership of Hyundai cars in Bangalore. It offers a wide range of Hyundai cars and services including sales, financing, and after-sales service.",
+    "rating": 4.3,
+    "location": "9th Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
+    "comments": [
+      {
+        "name": "Mark",
+        "comment": "I bought a Hyundai Grand i10 Nios from here and the sales process was smooth and hassle-free."
+      },
+      {
+        "name": "Julia",
+        "comment": "The staff here is very friendly and they provide personalized service."
+      }
+    ]
+  },
+    {
       "name": "Audi Bengaluru",
       "description": "Audi Bengaluru is an authorized dealership of Audi cars in Bangalore. It offers a wide range of Audi cars and services.",
       "rating": 4.5,
