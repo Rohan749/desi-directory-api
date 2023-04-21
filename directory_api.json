@@ -1,512 +1,586 @@
 {
   "automotives": [
-    
-  {
-    "name": "AutoZone",
-    "description": "AutoZone is the leading retailer and a leading distributor of automotive replacement parts and accessories in the United States.",
-    "rating": 4.5,
-    "location": "123 Main Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "John",
-        "comment": "Great service!"
-      },
-      {
-        "name": "Mary",
-        "comment": "Very helpful staff."
-      }
-    ]
-  },
-  {
-    "name": "O'Reilly Auto Parts",
-    "description": "O'Reilly Auto Parts is one of the largest retailers of automotive parts, tools, supplies, equipment, and accessories in the United States.",
-    "rating": 4.3,
-    "location": "456 Elm Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Jane",
-        "comment": "Always find what I need here."
-      },
-      {
-        "name": "Bob",
-        "comment": "Good prices and fast service."
-      }
-    ]
-  },
-  {
-    "name": "Advance Auto Parts",
-    "description": "Advance Auto Parts is a leading retailer of automotive parts and accessories in the United States, serving both professional installers and do-it-yourself customers.",
-    "rating": 4.2,
-    "location": "789 Oak Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Bill",
-        "comment": "Decent selection, but prices are a bit high."
-      },
-      {
-        "name": "Sara",
-        "comment": "Friendly staff and good customer service."
-      }
-    ]
-  },
-  {
-    "name": "Pep Boys",
-    "description": "Pep Boys is a full-service automotive aftermarket chain that offers services such as oil changes, brake repair, and engine diagnostics, as well as a wide selection of parts and accessories.",
-    "rating": 4.1,
-    "location": "1010 Pine Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Tom",
-        "comment": "Good prices on oil changes."
-      },
-      {
-        "name": "Susan",
-        "comment": "Slow service, but they did a good job with my brakes."
-      }
-    ]
-  },
-  {
-    "name": "NAPA Auto Parts",
-    "description": "NAPA Auto Parts is a leading supplier of automotive replacement parts, accessories, tools, and equipment in the United States.",
-    "rating": 4.0,
-    "location": "1212 Maple Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Joe",
-        "comment": "Good selection of parts, but prices are a bit high."
-      },
-      {
-        "name": "Karen",
-        "comment": "Helpful staff and good customer service."
-      }
-    ]
-  },
-  {
-    "name": "Carquest Auto Parts",
-    "description": "Carquest Auto Parts is a leading supplier of automotive parts, tools, and equipment in the United States.",
-    "rating": 3.9,
-    "location": "1414 Oak Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Tim",
-        "comment": "Decent selection of parts, but the store is always crowded."
-      }
-    ]
-  }
-],
-"restraunt" : [
-  {
-    "name": "Cheesecake Factory",
-    "description": "The Cheesecake Factory is a restaurant chain that offers a wide variety of dishes, including pasta, pizza, seafood, and, of course, cheesecake.",
-    "rating": 4.5,
-    "location": "123 Main Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "John",
-        "comment": "The food and service here are always excellent."
-      },
-      {
-        "name": "Mary",
-        "comment": "Love the variety of menu options."
-      }
-    ]
-  },
-  {
-    "name": "Olive Garden",
-    "description": "Olive Garden is an Italian-American restaurant chain that offers a variety of pasta dishes, as well as soups, salads, and other Italian-inspired fare.",
-    "rating": 4.3,
-    "location": "456 Elm Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Jane",
-        "comment": "Love the unlimited soup, salad, and breadsticks."
-      },
-      {
-        "name": "Bob",
-        "comment": "Good food and reasonable prices."
-      }
-    ]
-  },
-  {
-    "name": "Outback Steakhouse",
-    "description": "Outback Steakhouse is a casual dining restaurant chain that offers a variety of steak, chicken, and seafood dishes, as well as salads, soups, and desserts.",
-    "rating": 4.2,
-    "location": "789 Oak Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Bill",
-        "comment": "The steak here is always cooked to perfection."
-      },
-      {
-        "name": "Sara",
-        "comment": "Friendly staff and good atmosphere."
-      }
-    ]
-  },
-  {
-    "name": "Red Lobster",
-    "description": "Red Lobster is a seafood restaurant chain that offers a variety of dishes featuring lobster, shrimp, crab, and other seafood options.",
-    "rating": 4.1,
-    "location": "1010 Pine Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Tom",
-        "comment": "Love the endless shrimp promotion."
-      },
-      {
-        "name": "Susan",
-        "comment": "Good seafood and nice atmosphere."
-      }
-    ]
-  },
-  {
-    "name": "Chili's",
-    "description": "Chili's is a casual dining restaurant chain that offers a variety of Tex-Mex and American dishes, as well as burgers, sandwiches, and salads.",
-    "rating": 4.0,
-    "location": "1212 Maple Street, Anytown, USA",
-    "comments": [
-      {
-        "name": "Joe",
-        "comment": "Good food and drink specials."
-      },
-      {
-        "name": "Karen",
-        "comment": "Love the queso and chips appetizer."
-      }
-    ]
-  }
-],
-"shopping": [
-  {
-    "name": "Forum Mall",
-    "description": "Forum Mall is a large shopping center located in the heart of Bangalore. It offers a wide variety of stores, including clothing, electronics, and home goods.",
-    "rating": 4.5,
-    "location": "Koramangala, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "John",
-        "comment": "This mall has everything you need!"
-      },
-      {
-        "name": "Mary",
-        "comment": "Love the variety of stores."
-      }
-    ]
-  },
-  {
-    "name": "Phoenix Marketcity",
-    "description": "Phoenix Marketcity is a popular shopping destination in Bangalore that features a wide range of stores, restaurants, and entertainment options.",
-    "rating": 4.3,
-    "location": "Whitefield Main Road, Mahadevapura, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Jane",
-        "comment": "Great place to shop and dine."
-      },
-      {
-        "name": "Bob",
-        "comment": "Love the movie theater here."
-      }
-    ]
-  },
-  {
-    "name": "Mantri Square",
-    "description": "Mantri Square is a shopping center located in the Malleshwaram neighborhood of Bangalore. It offers a range of stores, as well as a food court and movie theater.",
-    "rating": 4.2,
-    "location": "Sampige Road, Malleshwaram, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Bill",
-        "comment": "Good selection of stores and restaurants."
-      },
-      {
-        "name": "Sara",
-        "comment": "Love the multiplex cinema here."
-      }
-    ]
-  },
-  {
-    "name": "UB City",
-    "description": "UB City is a luxury shopping and dining complex in the heart of Bangalore. It features high-end stores, restaurants, and offices.",
-    "rating": 4.1,
-    "location": "Vittal Mallya Road, Ashok Nagar, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Tom",
-        "comment": "A great place to splurge on luxury items."
-      },
-      {
-        "name": "Susan",
-        "comment": "Beautiful architecture and great restaurants."
-      }
-    ]
-  },
-  {
-    "name": "Garuda Mall",
-    "description": "Garuda Mall is a popular shopping center in Bangalore that offers a range of stores, as well as a food court and movie theater.",
-    "rating": 4.0,
-    "location": "Magrath Road, Ashok Nagar, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Joe",
-        "comment": "Good selection of stores and food options."
-      },
-      {
-        "name": "Karen",
-        "comment": "Love the movie theater here."
-      }
-    ]
-  }
-],
-
-"hotels_travel": [
-  {
-    "name": "Taj West End",
-    "description": "The Taj West End is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
-    "rating": 4.9,
-    "location": "Race Course Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "John",
-        "comment": "The Taj is the best hotel in Bangalore!"
-      },
-      {
-        "name": "Mary",
-        "comment": "The service here is exceptional."
-      }
-    ]
-  },
-  {
-    "name": "The Oberoi",
-    "description": "The Oberoi is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
-    "rating": 4.8,
-    "location": "MG Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Jane",
-        "comment": "The rooms here are so luxurious."
-      },
-      {
-        "name": "Bob",
-        "comment": "Great service and amenities."
-      }
-    ]
-  },
-  {
-    "name": "ITC Windsor",
-    "description": "ITC Windsor is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
-    "rating": 4.7,
-    "location": "Sankey Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Bill",
-        "comment": "The food here is amazing!"
-      },
-      {
-        "name": "Sara",
-        "comment": "Love the view from my room."
-      }
-    ]
-  },
-  {
-    "name": "The Leela Palace",
-    "description": "The Leela Palace is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
-    "rating": 4.6,
-    "location": "Old Airport Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Tom",
-        "comment": "The staff here is so friendly and helpful."
-      },
-      {
-        "name": "Susan",
-        "comment": "This hotel is absolutely stunning!"
-      }
-    ]
-  },
-  {
-    "name": "JW Marriott",
-    "description": "JW Marriott is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
-    "rating": 4.5,
-    "location": "Vittal Mallya Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Joe",
-        "comment": "The amenities here are top-notch."
-      },
-      {
-        "name": "Karen",
-        "comment": "Love the rooftop pool!"
-      }
-    ]
-  }
-],
-"education" : [
-  {
-    "name": "Indian Institute of Science",
-    "description": "The Indian Institute of Science is a public research institution located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of science and engineering.",
-    "rating": 4.9,
-    "location": "CV Raman Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "John",
-        "comment": "The faculty here is so knowledgeable and experienced."
-      },
-      {
-        "name": "Mary",
-        "comment": "The labs and facilities are world-class."
-      }
-    ]
-  },
-  {
-    "name": "Indian Institute of Management",
-    "description": "The Indian Institute of Management is a premier business school located in Bangalore. It offers a range of management programs, including MBA, Executive MBA, and PhD.",
-    "rating": 4.8,
-    "location": "Bannerghatta Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Jane",
-        "comment": "The faculty here is top-notch and the curriculum is very rigorous."
-      },
-      {
-        "name": "Bob",
-        "comment": "I learned a lot from my time here and made some great connections."
-      }
-    ]
-  },
-  {
-    "name": "National Law School of India University",
-    "description": "The National Law School of India University is a premier law school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in law.",
-    "rating": 4.7,
-    "location": "Nagarbhavi, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Bill",
-        "comment": "The faculty here is very supportive and the academic environment is very stimulating."
-      },
-      {
-        "name": "Sara",
-        "comment": "The facilities here are excellent and the library is well-stocked."
-      }
-    ]
-  },
-  {
-    "name": "Christ University",
-    "description": "Christ University is a private university located in Bangalore. It offers undergraduate and graduate programs in various fields, including humanities, social sciences, science, commerce, and management.",
-    "rating": 4.6,
-    "location": "Hosur Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Tom",
-        "comment": "The faculty here is very knowledgeable and helpful."
-      },
-      {
-        "name": "Susan",
-        "comment": "The campus here is very beautiful and the student community is very vibrant."
-      }
-    ]
-  },
-  {
-    "name": "Indian Institute of Technology",
-    "description": "The Indian Institute of Technology is a premier engineering school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of engineering and technology.",
-    "rating": 4.5,
-    "location": "Krishnadevaraya Nagar, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Joe",
-        "comment": "The faculty here is very experienced and the curriculum is very challenging."
-      },
-      {
-        "name": "Karen",
-        "comment": "The labs and facilities here are very advanced and modern."
-      }
-    ]
-  }
-],
-
-"hospital" : [
-  {
-    "name": "Apollo Hospitals",
-    "description": "Apollo Hospitals is one of the largest hospital chains in India, with a flagship hospital located in Bangalore. It offers a wide range of medical and surgical specialties.",
-    "rating": 4.8,
-    "location": "Bannerghatta Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "John",
-        "comment": "The doctors here are very skilled and experienced."
-      },
-      {
-        "name": "Mary",
-        "comment": "The facilities here are top-notch and the staff is very friendly."
-      }
-    ]
-  },
-  {
-    "name": "Fortis Hospital",
-    "description": "Fortis Hospital is a chain of hospitals with a location in Bangalore. It offers comprehensive medical services, including diagnostics, surgery, and critical care.",
-    "rating": 4.7,
-    "location": "Bannerghatta Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Jane",
-        "comment": "The doctors here are very professional and caring."
-      },
-      {
-        "name": "Bob",
-        "comment": "The facilities here are excellent and the staff is very attentive."
-      }
-    ]
-  },
-  {
-    "name": "Manipal Hospital",
-    "description": "Manipal Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and orthopedics.",
-    "rating": 4.6,
-    "location": "Old Airport Road, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Bill",
-        "comment": "The doctors here are very knowledgeable and compassionate."
-      },
-      {
-        "name": "Sara",
-        "comment": "The facilities here are very modern and clean."
-      }
-    ]
-  },
-  {
-    "name": "Columbia Asia Hospital",
-    "description": "Columbia Asia Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and pediatrics.",
-    "rating": 4.5,
-    "location": "Whitefield, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Tom",
-        "comment": "The doctors here are very friendly and approachable."
-      },
-      {
-        "name": "Susan",
-        "comment": "The facilities here are very well-maintained and comfortable."
-      }
-    ]
-  },
-  {
-    "name": "Narayana Health",
-    "description": "Narayana Health is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, oncology, and urology.",
-    "rating": 4.4,
-    "location": "Bommasandra, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Joe",
-        "comment": "The doctors here are very experienced and skilled."
-      },
-      {
-        "name": "Karen",
-        "comment": "The facilities here are very spacious and well-equipped."
-      }
-    ]
-  }
-]
-
-
-
+    {
+      "name": "Audi Bengaluru",
+      "description": "Audi Bengaluru is an authorized dealership of Audi cars in Bangalore. It offers a wide range of Audi cars and services.",
+      "rating": 4.5,
+      "location": "Lavelle Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "I bought my Audi A6 from here and it was a great experience!"
+        },
+        {
+          "name": "Mary",
+          "comment": "The after-sales service here is top-notch, highly recommend."
+        }
+      ]
+    },
+    {
+      "name": "Mercedes-Benz Bengaluru",
+      "description": "Mercedes-Benz Bengaluru is an authorized dealership of Mercedes-Benz cars in Bangalore. It offers a wide range of Mercedes-Benz cars and services.",
+      "rating": 4.7,
+      "location": "Lavelle Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "I recently bought a Mercedes-Benz C-Class from here and the sales process was smooth and hassle-free."
+        },
+        {
+          "name": "Bob",
+          "comment": "The staff here is very knowledgeable and helpful, highly recommend!"
+        }
+      ]
+    },
+    {
+      "name": "BMW Bengaluru",
+      "description": "BMW Bengaluru is an authorized dealership of BMW cars in Bangalore. It offers a wide range of BMW cars and services.",
+      "rating": 4.6,
+      "location": "Lavelle Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "I had a great experience buying my BMW X5 from here, highly recommend!"
+        },
+        {
+          "name": "Sara",
+          "comment": "The service department here is very efficient and professional."
+        }
+      ]
+    },
+    {
+      "name": "Volvo Cars Bengaluru",
+      "description": "Volvo Cars Bengaluru is an authorized dealership of Volvo cars in Bangalore. It offers a wide range of Volvo cars and services.",
+      "rating": 4.3,
+      "location": "Cunningham Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "I recently bought a Volvo XC60 from here and the sales team was very helpful throughout the process."
+        },
+        {
+          "name": "Susan",
+          "comment": "The showroom here is very well-maintained and the staff is very friendly."
+        }
+      ]
+    },
+    {
+      "name": "Jaguar Land Rover Bengaluru",
+      "description": "Jaguar Land Rover Bengaluru is an authorized dealership of Jaguar and Land Rover cars in Bangalore. It offers a wide range of cars and services.",
+      "rating": 4.4,
+      "location": "Lavelle Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "I had a great experience test driving the Jaguar F-Type here, highly recommend!"
+        },
+        {
+          "name": "Karen",
+          "comment": "The sales team here is very knowledgeable and accommodating."
+        }
+      ]
+    },
+    {
+      "name": "AutoZone",
+      "description": "AutoZone is the leading retailer and a leading distributor of automotive replacement parts and accessories in the United States.",
+      "rating": 4.5,
+      "location": "123 Main Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "Great service!"
+        },
+        {
+          "name": "Mary",
+          "comment": "Very helpful staff."
+        }
+      ]
+    },
+    {
+      "name": "O'Reilly Auto Parts",
+      "description": "O'Reilly Auto Parts is one of the largest retailers of automotive parts, tools, supplies, equipment, and accessories in the United States.",
+      "rating": 4.3,
+      "location": "456 Elm Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "Always find what I need here."
+        },
+        {
+          "name": "Bob",
+          "comment": "Good prices and fast service."
+        }
+      ]
+    },
+    {
+      "name": "Advance Auto Parts",
+      "description": "Advance Auto Parts is a leading retailer of automotive parts and accessories in the United States, serving both professional installers and do-it-yourself customers.",
+      "rating": 4.2,
+      "location": "789 Oak Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "Decent selection, but prices are a bit high."
+        },
+        {
+          "name": "Sara",
+          "comment": "Friendly staff and good customer service."
+        }
+      ]
+    },
+    {
+      "name": "Pep Boys",
+      "description": "Pep Boys is a full-service automotive aftermarket chain that offers services such as oil changes, brake repair, and engine diagnostics, as well as a wide selection of parts and accessories.",
+      "rating": 4.1,
+      "location": "1010 Pine Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "Good prices on oil changes."
+        },
+        {
+          "name": "Susan",
+          "comment": "Slow service, but they did a good job with my brakes."
+        }
+      ]
+    },
+    {
+      "name": "NAPA Auto Parts",
+      "description": "NAPA Auto Parts is a leading supplier of automotive replacement parts, accessories, tools, and equipment in the United States.",
+      "rating": 4.0,
+      "location": "1212 Maple Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "Good selection of parts, but prices are a bit high."
+        },
+        {
+          "name": "Karen",
+          "comment": "Helpful staff and good customer service."
+        }
+      ]
+    },
+    {
+      "name": "Carquest Auto Parts",
+      "description": "Carquest Auto Parts is a leading supplier of automotive parts, tools, and equipment in the United States.",
+      "rating": 3.9,
+      "location": "1414 Oak Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Tim",
+          "comment": "Decent selection of parts, but the store is always crowded."
+        }
+      ]
+    }
+  ],
+  "restraunt": [
+    {
+      "name": "Cheesecake Factory",
+      "description": "The Cheesecake Factory is a restaurant chain that offers a wide variety of dishes, including pasta, pizza, seafood, and, of course, cheesecake.",
+      "rating": 4.5,
+      "location": "123 Main Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The food and service here are always excellent."
+        },
+        {
+          "name": "Mary",
+          "comment": "Love the variety of menu options."
+        }
+      ]
+    },
+    {
+      "name": "Olive Garden",
+      "description": "Olive Garden is an Italian-American restaurant chain that offers a variety of pasta dishes, as well as soups, salads, and other Italian-inspired fare.",
+      "rating": 4.3,
+      "location": "456 Elm Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "Love the unlimited soup, salad, and breadsticks."
+        },
+        {
+          "name": "Bob",
+          "comment": "Good food and reasonable prices."
+        }
+      ]
+    },
+    {
+      "name": "Outback Steakhouse",
+      "description": "Outback Steakhouse is a casual dining restaurant chain that offers a variety of steak, chicken, and seafood dishes, as well as salads, soups, and desserts.",
+      "rating": 4.2,
+      "location": "789 Oak Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The steak here is always cooked to perfection."
+        },
+        {
+          "name": "Sara",
+          "comment": "Friendly staff and good atmosphere."
+        }
+      ]
+    },
+    {
+      "name": "Red Lobster",
+      "description": "Red Lobster is a seafood restaurant chain that offers a variety of dishes featuring lobster, shrimp, crab, and other seafood options.",
+      "rating": 4.1,
+      "location": "1010 Pine Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "Love the endless shrimp promotion."
+        },
+        {
+          "name": "Susan",
+          "comment": "Good seafood and nice atmosphere."
+        }
+      ]
+    },
+    {
+      "name": "Chili's",
+      "description": "Chili's is a casual dining restaurant chain that offers a variety of Tex-Mex and American dishes, as well as burgers, sandwiches, and salads.",
+      "rating": 4.0,
+      "location": "1212 Maple Street, Anytown, USA",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "Good food and drink specials."
+        },
+        {
+          "name": "Karen",
+          "comment": "Love the queso and chips appetizer."
+        }
+      ]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Forum Mall",
+      "description": "Forum Mall is a large shopping center located in the heart of Bangalore. It offers a wide variety of stores, including clothing, electronics, and home goods.",
+      "rating": 4.5,
+      "location": "Koramangala, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "This mall has everything you need!"
+        },
+        {
+          "name": "Mary",
+          "comment": "Love the variety of stores."
+        }
+      ]
+    },
+    {
+      "name": "Phoenix Marketcity",
+      "description": "Phoenix Marketcity is a popular shopping destination in Bangalore that features a wide range of stores, restaurants, and entertainment options.",
+      "rating": 4.3,
+      "location": "Whitefield Main Road, Mahadevapura, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "Great place to shop and dine."
+        },
+        {
+          "name": "Bob",
+          "comment": "Love the movie theater here."
+        }
+      ]
+    },
+    {
+      "name": "Mantri Square",
+      "description": "Mantri Square is a shopping center located in the Malleshwaram neighborhood of Bangalore. It offers a range of stores, as well as a food court and movie theater.",
+      "rating": 4.2,
+      "location": "Sampige Road, Malleshwaram, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "Good selection of stores and restaurants."
+        },
+        {
+          "name": "Sara",
+          "comment": "Love the multiplex cinema here."
+        }
+      ]
+    },
+    {
+      "name": "UB City",
+      "description": "UB City is a luxury shopping and dining complex in the heart of Bangalore. It features high-end stores, restaurants, and offices.",
+      "rating": 4.1,
+      "location": "Vittal Mallya Road, Ashok Nagar, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "A great place to splurge on luxury items."
+        },
+        {
+          "name": "Susan",
+          "comment": "Beautiful architecture and great restaurants."
+        }
+      ]
+    },
+    {
+      "name": "Garuda Mall",
+      "description": "Garuda Mall is a popular shopping center in Bangalore that offers a range of stores, as well as a food court and movie theater.",
+      "rating": 4.0,
+      "location": "Magrath Road, Ashok Nagar, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "Good selection of stores and food options."
+        },
+        {
+          "name": "Karen",
+          "comment": "Love the movie theater here."
+        }
+      ]
+    }
+  ],
+  "hotels_travel": [
+    {
+      "name": "Taj West End",
+      "description": "The Taj West End is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.9,
+      "location": "Race Course Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The Taj is the best hotel in Bangalore!"
+        },
+        {
+          "name": "Mary",
+          "comment": "The service here is exceptional."
+        }
+      ]
+    },
+    {
+      "name": "The Oberoi",
+      "description": "The Oberoi is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.8,
+      "location": "MG Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "The rooms here are so luxurious."
+        },
+        {
+          "name": "Bob",
+          "comment": "Great service and amenities."
+        }
+      ]
+    },
+    {
+      "name": "ITC Windsor",
+      "description": "ITC Windsor is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.7,
+      "location": "Sankey Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The food here is amazing!"
+        },
+        {
+          "name": "Sara",
+          "comment": "Love the view from my room."
+        }
+      ]
+    },
+    {
+      "name": "The Leela Palace",
+      "description": "The Leela Palace is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.6,
+      "location": "Old Airport Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "The staff here is so friendly and helpful."
+        },
+        {
+          "name": "Susan",
+          "comment": "This hotel is absolutely stunning!"
+        }
+      ]
+    },
+    {
+      "name": "JW Marriott",
+      "description": "JW Marriott is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
+      "rating": 4.5,
+      "location": "Vittal Mallya Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "The amenities here are top-notch."
+        },
+        {
+          "name": "Karen",
+          "comment": "Love the rooftop pool!"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "name": "Indian Institute of Science",
+      "description": "The Indian Institute of Science is a public research institution located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of science and engineering.",
+      "rating": 4.9,
+      "location": "CV Raman Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The faculty here is so knowledgeable and experienced."
+        },
+        {
+          "name": "Mary",
+          "comment": "The labs and facilities are world-class."
+        }
+      ]
+    },
+    {
+      "name": "Indian Institute of Management",
+      "description": "The Indian Institute of Management is a premier business school located in Bangalore. It offers a range of management programs, including MBA, Executive MBA, and PhD.",
+      "rating": 4.8,
+      "location": "Bannerghatta Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "The faculty here is top-notch and the curriculum is very rigorous."
+        },
+        {
+          "name": "Bob",
+          "comment": "I learned a lot from my time here and made some great connections."
+        }
+      ]
+    },
+    {
+      "name": "National Law School of India University",
+      "description": "The National Law School of India University is a premier law school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in law.",
+      "rating": 4.7,
+      "location": "Nagarbhavi, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The faculty here is very supportive and the academic environment is very stimulating."
+        },
+        {
+          "name": "Sara",
+          "comment": "The facilities here are excellent and the library is well-stocked."
+        }
+      ]
+    },
+    {
+      "name": "Christ University",
+      "description": "Christ University is a private university located in Bangalore. It offers undergraduate and graduate programs in various fields, including humanities, social sciences, science, commerce, and management.",
+      "rating": 4.6,
+      "location": "Hosur Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "The faculty here is very knowledgeable and helpful."
+        },
+        {
+          "name": "Susan",
+          "comment": "The campus here is very beautiful and the student community is very vibrant."
+        }
+      ]
+    },
+    {
+      "name": "Indian Institute of Technology",
+      "description": "The Indian Institute of Technology is a premier engineering school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of engineering and technology.",
+      "rating": 4.5,
+      "location": "Krishnadevaraya Nagar, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "The faculty here is very experienced and the curriculum is very challenging."
+        },
+        {
+          "name": "Karen",
+          "comment": "The labs and facilities here are very advanced and modern."
+        }
+      ]
+    }
+  ],
+  "hospital": [
+    {
+      "name": "Apollo Hospitals",
+      "description": "Apollo Hospitals is one of the largest hospital chains in India, with a flagship hospital located in Bangalore. It offers a wide range of medical and surgical specialties.",
+      "rating": 4.8,
+      "location": "Bannerghatta Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "The doctors here are very skilled and experienced."
+        },
+        {
+          "name": "Mary",
+          "comment": "The facilities here are top-notch and the staff is very friendly."
+        }
+      ]
+    },
+    {
+      "name": "Fortis Hospital",
+      "description": "Fortis Hospital is a chain of hospitals with a location in Bangalore. It offers comprehensive medical services, including diagnostics, surgery, and critical care.",
+      "rating": 4.7,
+      "location": "Bannerghatta Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Jane",
+          "comment": "The doctors here are very professional and caring."
+        },
+        {
+          "name": "Bob",
+          "comment": "The facilities here are excellent and the staff is very attentive."
+        }
+      ]
+    },
+    {
+      "name": "Manipal Hospital",
+      "description": "Manipal Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and orthopedics.",
+      "rating": 4.6,
+      "location": "Old Airport Road, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Bill",
+          "comment": "The doctors here are very knowledgeable and compassionate."
+        },
+        {
+          "name": "Sara",
+          "comment": "The facilities here are very modern and clean."
+        }
+      ]
+    },
+    {
+      "name": "Columbia Asia Hospital",
+      "description": "Columbia Asia Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and pediatrics.",
+      "rating": 4.5,
+      "location": "Whitefield, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Tom",
+          "comment": "The doctors here are very friendly and approachable."
+        },
+        {
+          "name": "Susan",
+          "comment": "The facilities here are very well-maintained and comfortable."
+        }
+      ]
+    },
+    {
+      "name": "Narayana Health",
+      "description": "Narayana Health is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, oncology, and urology.",
+      "rating": 4.4,
+      "location": "Bommasandra, Bengaluru, Karnataka",
+      "comments": [
+        {
+          "name": "Joe",
+          "comment": "The doctors here are very experienced and skilled."
+        },
+        {
+          "name": "Karen",
+          "comment": "The facilities here are very spacious and well-equipped."
+        }
+      ]
+    }
+  ]
 }
