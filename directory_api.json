@@ -1,238 +1,154 @@
 {
   "automotives": [
     {
-    "name": "Mahindra First Choice Wheels",
-    "description": "Mahindra First Choice Wheels is a multi-brand used car dealership in Bangalore. It offers a wide range of pre-owned cars with warranty and other services.",
-    "rating": 4.1,
-    "location": "Bannerghatta Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Alice",
-        "comment": "I bought a used Maruti Suzuki Swift from here and it was in great condition!"
-      },
-      {
-        "name": "David",
-        "comment": "The staff here is very helpful and they have a great selection of cars."
-      }
-    ]
-  },
-  {
-    "name": "TVS Motor Company",
-    "description": "TVS Motor Company is a leading two-wheeler manufacturer in India. It offers a wide range of motorcycles and scooters in Bangalore.",
-    "rating": 4.2,
-    "location": "Bannerghatta Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Chris",
-        "comment": "I recently bought a TVS Apache RTR 160 from here and it's a great bike."
-      },
-      {
-        "name": "Emily",
-        "comment": "The service center here is very efficient and they have genuine parts."
-      }
-    ]
-  },
-  {
-    "name": "Ford Service Center",
-    "description": "Ford Service Center is an authorized service center for Ford cars in Bangalore. It offers a wide range of services including repairs, maintenance, and warranty.",
-    "rating": 4.0,
-    "location": "8th Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Mike",
-        "comment": "I got my Ford Figo serviced from here and the staff was very professional."
-      },
-      {
-        "name": "Linda",
-        "comment": "The waiting lounge here is very comfortable and they have complimentary snacks and beverages."
-      }
-    ]
-  },
-  {
-    "name": "Hyundai Motor Plaza",
-    "description": "Hyundai Motor Plaza is an authorized dealership of Hyundai cars in Bangalore. It offers a wide range of Hyundai cars and services including sales, financing, and after-sales service.",
-    "rating": 4.3,
-    "location": "9th Main Rd, Kumaraswamy Layout, Bengaluru, Karnataka",
-    "comments": [
-      {
-        "name": "Mark",
-        "comment": "I bought a Hyundai Grand i10 Nios from here and the sales process was smooth and hassle-free."
-      },
-      {
-        "name": "Julia",
-        "comment": "The staff here is very friendly and they provide personalized service."
-      }
-    ]
-  },
-    {
-      "name": "Audi Bengaluru",
-      "description": "Audi Bengaluru is an authorized dealership of Audi cars in Bangalore. It offers a wide range of Audi cars and services.",
-      "rating": 4.5,
-      "location": "Lavelle Road, Bengaluru, Karnataka",
-      "comments": [
-        {
-          "name": "John",
-          "comment": "I bought my Audi A6 from here and it was a great experience!"
-        },
-        {
-          "name": "Mary",
-          "comment": "The after-sales service here is top-notch, highly recommend."
-        }
-      ]
-    },
-    {
-      "name": "Mercedes-Benz Bengaluru",
-      "description": "Mercedes-Benz Bengaluru is an authorized dealership of Mercedes-Benz cars in Bangalore. It offers a wide range of Mercedes-Benz cars and services.",
-      "rating": 4.7,
-      "location": "Lavelle Road, Bengaluru, Karnataka",
-      "comments": [
-        {
-          "name": "Jane",
-          "comment": "I recently bought a Mercedes-Benz C-Class from here and the sales process was smooth and hassle-free."
-        },
-        {
-          "name": "Bob",
-          "comment": "The staff here is very knowledgeable and helpful, highly recommend!"
-        }
-      ]
-    },
-    {
-      "name": "BMW Bengaluru",
-      "description": "BMW Bengaluru is an authorized dealership of BMW cars in Bangalore. It offers a wide range of BMW cars and services.",
-      "rating": 4.6,
-      "location": "Lavelle Road, Bengaluru, Karnataka",
-      "comments": [
-        {
-          "name": "Bill",
-          "comment": "I had a great experience buying my BMW X5 from here, highly recommend!"
-        },
-        {
-          "name": "Sara",
-          "comment": "The service department here is very efficient and professional."
-        }
-      ]
-    },
-    {
-      "name": "Volvo Cars Bengaluru",
-      "description": "Volvo Cars Bengaluru is an authorized dealership of Volvo cars in Bangalore. It offers a wide range of Volvo cars and services.",
-      "rating": 4.3,
-      "location": "Cunningham Road, Bengaluru, Karnataka",
-      "comments": [
-        {
-          "name": "Tom",
-          "comment": "I recently bought a Volvo XC60 from here and the sales team was very helpful throughout the process."
-        },
-        {
-          "name": "Susan",
-          "comment": "The showroom here is very well-maintained and the staff is very friendly."
-        }
-      ]
-    },
-    {
-      "name": "Jaguar Land Rover Bengaluru",
-      "description": "Jaguar Land Rover Bengaluru is an authorized dealership of Jaguar and Land Rover cars in Bangalore. It offers a wide range of cars and services.",
-      "rating": 4.4,
-      "location": "Lavelle Road, Bengaluru, Karnataka",
-      "comments": [
-        {
-          "name": "Joe",
-          "comment": "I had a great experience test driving the Jaguar F-Type here, highly recommend!"
-        },
-        {
-          "name": "Karen",
-          "comment": "The sales team here is very knowledgeable and accommodating."
-        }
-      ]
-    },
-    {
-      "name": "AutoZone",
-      "description": "AutoZone is the leading retailer and a leading distributor of automotive replacement parts and accessories in the United States.",
-      "rating": 4.5,
-      "location": "123 Main Street, Anytown, USA",
-      "comments": [
-        {
-          "name": "John",
-          "comment": "Great service!"
-        },
-        {
-          "name": "Mary",
-          "comment": "Very helpful staff."
-        }
-      ]
-    },
-    {
-      "name": "O'Reilly Auto Parts",
-      "description": "O'Reilly Auto Parts is one of the largest retailers of automotive parts, tools, supplies, equipment, and accessories in the United States.",
-      "rating": 4.3,
-      "location": "456 Elm Street, Anytown, USA",
-      "comments": [
-        {
-          "name": "Jane",
-          "comment": "Always find what I need here."
-        },
-        {
-          "name": "Bob",
-          "comment": "Good prices and fast service."
-        }
-      ]
-    },
-    {
-      "name": "Advance Auto Parts",
-      "description": "Advance Auto Parts is a leading retailer of automotive parts and accessories in the United States, serving both professional installers and do-it-yourself customers.",
+      "name": "XYZ Car Garage",
+      "description": "XYZ Car Garage is a full-service auto repair shop in the heart of Bangalore. We specialize in providing high-quality maintenance services for all types of cars.",
       "rating": 4.2,
-      "location": "789 Oak Street, Anytown, USA",
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
-          "name": "Bill",
-          "comment": "Decent selection, but prices are a bit high."
+          "name": "John",
+          "comment": "Great service and friendly staff!"
         },
         {
-          "name": "Sara",
-          "comment": "Friendly staff and good customer service."
+          "name": "Lisa",
+          "comment": "Highly recommended for all your car needs."
         }
       ]
     },
     {
-      "name": "Pep Boys",
-      "description": "Pep Boys is a full-service automotive aftermarket chain that offers services such as oil changes, brake repair, and engine diagnostics, as well as a wide selection of parts and accessories.",
-      "rating": 4.1,
-      "location": "1010 Pine Street, Anytown, USA",
+      "name": "ABC Motors",
+      "description": "ABC Motors is a leading automobile dealer in Bangalore. We offer a wide range of cars at competitive prices and provide excellent after-sales service to our customers.",
+      "rating": 4.5,
+      "location": "MG Road, Bangalore",
       "comments": [
         {
-          "name": "Tom",
-          "comment": "Good prices on oil changes."
+          "name": "David",
+          "comment": "I bought my car from ABC Motors and had a great experience!"
         },
         {
-          "name": "Susan",
-          "comment": "Slow service, but they did a good job with my brakes."
+          "name": "Jessica",
+          "comment": "The staff at ABC Motors are very helpful and knowledgeable."
+        },
+        {
+          "name": "James",
+          "comment": "I had my car serviced at ABC Motors and they did a great job."
         }
       ]
     },
     {
-      "name": "NAPA Auto Parts",
-      "description": "NAPA Auto Parts is a leading supplier of automotive replacement parts, accessories, tools, and equipment in the United States.",
+      "name": "PQR Auto Works",
+      "description": "PQR Auto Works is a specialized auto repair shop in Bangalore. We have the latest diagnostic tools and equipment to service your car.",
       "rating": 4.0,
-      "location": "1212 Maple Street, Anytown, USA",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
-          "name": "Joe",
-          "comment": "Good selection of parts, but prices are a bit high."
+          "name": "Mary",
+          "comment": "Excellent service and reasonable prices."
+        },
+        {
+          "name": "Robert",
+          "comment": "I had my car repaired at PQR Auto Works and they did an amazing job!"
+        }
+      ]
+    },
+    {
+      "name": "LMN Car Care",
+      "description": "LMN Car Care is a trusted name in the automobile industry. We offer a range of services including car detailing, painting, and maintenance.",
+      "rating": 4.8,
+      "location": "Indiranagar, Bangalore",
+      "comments": [
+        {
+          "name": "Sarah",
+          "comment": "I took my car to LMN Car Care for detailing and they did an amazing job!"
+        },
+        {
+          "name": "Peter",
+          "comment": "The staff at LMN Car Care are very friendly and professional."
         },
         {
           "name": "Karen",
-          "comment": "Helpful staff and good customer service."
+          "comment": "I highly recommend LMN Car Care for all your car needs."
         }
       ]
     },
     {
-      "name": "Carquest Auto Parts",
-      "description": "Carquest Auto Parts is a leading supplier of automotive parts, tools, and equipment in the United States.",
-      "rating": 3.9,
-      "location": "1414 Oak Street, Anytown, USA",
+      "name": "RST Auto Solutions",
+      "description": "RST Auto Solutions is a one-stop-shop for all your car needs. We provide a range of services including car repair, maintenance, and customization.",
+      "rating": 4.4,
+      "location": "Kalyan Nagar, Bangalore",
       "comments": [
         {
-          "name": "Tim",
-          "comment": "Decent selection of parts, but the store is always crowded."
+          "name": "Michael",
+          "comment": "I had my car repaired at RST Auto Solutions and they did a great job."
+        },
+        {
+          "name": "Emma",
+          "comment": "The staff at RST Auto Solutions are very knowledgeable and friendly."
+        }
+      ]
+    },
+    {
+      "name": "MotoWorx",
+      "description": "MotoWorx is a well-known motorcycle dealership in Bangalore, offering a wide range of bikes and related services.",
+      "rating": 4.0,
+      "location": "Jayanagar",
+      "comments": [
+        {
+          "name": "Robert Johnson",
+          "comment": "Bought my first bike from MotoWorx and had a great experience. Highly recommended!"
+        },
+        {
+          "name": "Maria Rodriguez",
+          "comment": "I took my bike here for servicing and they did a fantastic job. Will definitely come back!"
+        }
+      ]
+    },
+    {
+      "name": "Tyre Empire",
+      "description": "Tyre Empire is a leading tyre dealer in Bangalore, offering a wide range of tyres for cars, bikes and other vehicles.",
+      "rating": 4.2,
+      "location": "Indiranagar",
+      "comments": [
+        {
+          "name": "James Brown",
+          "comment": "I always go to Tyre Empire for my tyre needs. They have a great selection and knowledgeable staff."
+        },
+        {
+          "name": "Julia Lee",
+          "comment": "Excellent service and prices. I got a great deal on my new tyres!"
+        }
+      ]
+    },
+    {
+      "name": "Car Junction",
+      "description": "Car Junction is a well-established used car dealer in Bangalore, offering a wide range of second-hand cars at affordable prices.",
+      "rating": 3.8,
+      "location": "HSR Layout",
+      "comments": [
+        {
+          "name": "David Miller",
+          "comment": "I bought my first car from Car Junction and had a good experience. They helped me find the perfect car within my budget."
+        },
+        {
+          "name": "Sarah Williams",
+          "comment": "Good selection of cars and friendly staff. I would recommend Car Junction to anyone looking for a used car."
+        }
+      ]
+    },
+    {
+      "name": "Bike Nation",
+      "description": "Bike Nation is a popular bike rental service in Bangalore, offering a wide range of bikes for rent at affordable prices.",
+      "rating": 4.4,
+      "location": "Koramangala",
+      "comments": [
+        {
+          "name": "Michael Brown",
+          "comment": "I rented a bike from Bike Nation and had a great time exploring Bangalore. The rental process was quick and easy!"
+        },
+        {
+          "name": "Sophie Taylor",
+          "comment": "Affordable prices and excellent service. I will definitely rent from Bike Nation again!"
         }
       ]
     }
@@ -317,89 +233,223 @@
           "comment": "Love the queso and chips appetizer."
         }
       ]
-    }
-  ],
-  "shopping": [
+    },
     {
-      "name": "Forum Mall",
-      "description": "Forum Mall is a large shopping center located in the heart of Bangalore. It offers a wide variety of stores, including clothing, electronics, and home goods.",
+      "name": "Barbeque Nation",
+      "description": "Barbeque Nation is a casual dining restaurant known for their innovative and delicious grills and barbeques. They offer a variety of vegetarian and non-vegetarian options, along with a range of drinks and desserts.",
       "rating": 4.5,
-      "location": "Koramangala, Bengaluru, Karnataka",
+      "location": "Indiranagar, Bangalore",
       "comments": [
         {
-          "name": "John",
-          "comment": "This mall has everything you need!"
+          "name": "John Doe",
+          "comment": "I loved the food here. The grills and barbeques were amazing!"
         },
         {
-          "name": "Mary",
-          "comment": "Love the variety of stores."
+          "name": "Jane Doe",
+          "comment": "The service was a bit slow, but the food made up for it. Highly recommend the chicken tikkas!"
         }
       ]
     },
     {
-      "name": "Phoenix Marketcity",
-      "description": "Phoenix Marketcity is a popular shopping destination in Bangalore that features a wide range of stores, restaurants, and entertainment options.",
-      "rating": 4.3,
-      "location": "Whitefield Main Road, Mahadevapura, Bengaluru, Karnataka",
+      "name": "Truffles",
+      "description": "Truffles is a popular cafe chain in Bangalore known for their burgers and shakes. They have a variety of vegetarian and non-vegetarian options, along with a range of desserts and beverages.",
+      "rating": 4.0,
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
-          "name": "Jane",
-          "comment": "Great place to shop and dine."
+          "name": "Samantha Smith",
+          "comment": "Truffles has the best burgers in town! Love their fries and shakes too."
         },
         {
-          "name": "Bob",
-          "comment": "Love the movie theater here."
+          "name": "David Brown",
+          "comment": "I had a great experience at Truffles. The food was delicious and the service was top-notch."
+        }
+      ]
+    },
+    {
+      "name": "Cafe Coffee Day",
+      "description": "Cafe Coffee Day is a popular cafe chain in India known for their coffee and snacks. They offer a range of coffee and tea options, along with sandwiches, burgers, and desserts.",
+      "rating": 3.5,
+      "location": "Whitefield, Bangalore",
+      "comments": [
+        {
+          "name": "Amit Sharma",
+          "comment": "CCD is a great place to hang out with friends. Love their coffee and sandwiches."
+        },
+        {
+          "name": "Priya Patel",
+          "comment": "The service at CCD could be better, but the coffee is always good."
+        },
+        {
+          "name": "Rahul Singh",
+          "comment": "CCD has a nice ambiance and good food. Would definitely recommend their brownies."
+        }
+      ]
+    },
+    {
+      "name": "MTR",
+      "description": "MTR is a popular South Indian restaurant in Bangalore known for their dosas and filter coffee. They offer a variety of vegetarian options, along with a range of sweets and snacks.",
+      "rating": 4.2,
+      "location": "JP Nagar, Bangalore",
+      "comments": [
+        {
+          "name": "Sandeep Kumar",
+          "comment": "MTR has the best dosas in Bangalore. Would highly recommend!"
+        },
+        {
+          "name": "Priya Singh",
+          "comment": "The food at MTR is always fresh and delicious. Love their filter coffee too."
+        },
+        {
+          "name": "Rajesh Patel",
+          "comment": "MTR is a must-visit for anyone who loves South Indian food. Their chutneys are amazing!"
+        }
+      ]
+    }
+  ],
+  "shopping": [
+    {
+      "name": "Phoenix Marketcity",
+      "description": "One-stop destination for fashion, food, and entertainment.",
+      "rating": 4.5,
+      "location": "Whitefield, Bengaluru",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "Great collection of stores!"
+        },
+        {
+          "name": "Jane",
+          "comment": "Love the cinema here."
         }
       ]
     },
     {
       "name": "Mantri Square",
-      "description": "Mantri Square is a shopping center located in the Malleshwaram neighborhood of Bangalore. It offers a range of stores, as well as a food court and movie theater.",
+      "description": "Largest shopping mall in Bengaluru with over 250 stores.",
       "rating": 4.2,
-      "location": "Sampige Road, Malleshwaram, Bengaluru, Karnataka",
+      "location": "Malleshwaram, Bengaluru",
       "comments": [
         {
-          "name": "Bill",
-          "comment": "Good selection of stores and restaurants."
+          "name": "Mike",
+          "comment": "Always crowded, but worth the visit."
         },
         {
-          "name": "Sara",
-          "comment": "Love the multiplex cinema here."
+          "name": "Mary",
+          "comment": "Lots of options for dining."
         }
       ]
     },
     {
-      "name": "UB City",
-      "description": "UB City is a luxury shopping and dining complex in the heart of Bangalore. It features high-end stores, restaurants, and offices.",
+      "name": "UB CityHub",
+      "description": "Luxury shopping and dining destination.",
+      "rating": 4.8,
+      "location": "Vittal Mallya Road, Bengaluru",
+      "comments": [
+        {
+          "name": "David",
+          "comment": "Great place to splurge on luxury brands."
+        },
+        {
+          "name": "Sarah",
+          "comment": "Beautiful architecture and ambiance."
+        }
+      ]
+    },
+    {
+      "name": "Orion Mall",
+      "description": "A mix of international and domestic brands in a spacious mall.",
+      "rating": 4.4,
+      "location": "Rajajinagar, Bengaluru",
+      "comments": [
+        {
+          "name": "Alex",
+          "comment": "Love the movie theater here."
+        },
+        {
+          "name": "Lisa",
+          "comment": "Lots of options for kids entertainment."
+        }
+      ]
+    },
+    {
+      "name": "Forum Mall",
+      "description": "A popular shopping mall with over 100 stores and a large food court.",
       "rating": 4.1,
-      "location": "Vittal Mallya Road, Ashok Nagar, Bengaluru, Karnataka",
+      "location": "Koramangala, Bengaluru",
+      "comments": [
+        {
+          "name": "Kevin",
+          "comment": "Great shopping experience, especially during sales."
+        },
+        {
+          "name": "Amanda",
+          "comment": "Always love coming here for the food."
+        }
+      ]
+    },
+    {
+      "name": "Sophia Mall",
+      "description": "One of the first malls in Bengaluru, with over 150 stores.",
+      "rating": 3.8,
+      "location": "Magrath Road, Bengaluru",
       "comments": [
         {
           "name": "Tom",
-          "comment": "A great place to splurge on luxury items."
+          "comment": "Love the collection of stores here."
         },
         {
-          "name": "Susan",
-          "comment": "Beautiful architecture and great restaurants."
+          "name": "Emily",
+          "comment": "Could use some renovation, but still a good mall."
         }
       ]
     },
     {
-      "name": "Garuda Mall",
-      "description": "Garuda Mall is a popular shopping center in Bangalore that offers a range of stores, as well as a food court and movie theater.",
+      "name": "Inorbit Mall",
+      "description": "A family-friendly mall with a mix of shopping and entertainment options.",
       "rating": 4.0,
-      "location": "Magrath Road, Ashok Nagar, Bengaluru, Karnataka",
+      "location": "Whitefield, Bengaluru",
       "comments": [
         {
-          "name": "Joe",
-          "comment": "Good selection of stores and food options."
+          "name": "Eric",
+          "comment": "Love the variety of stores here."
         },
         {
-          "name": "Karen",
-          "comment": "Love the movie theater here."
+          "name": "Olivia",
+          "comment": "Fun place to hang out with friends and family."
         }
       ]
-    }
+    },
+    {    "name": "Garuda Mall",   
+         "description": "Garuda Mall is a popular shopping center located in the heart of Bengaluru. It features a variety of shops, restaurants, and a movie theater.",    
+         "rating": 4.2,    
+         "location": "Magrath Road, Bengaluru",    
+         "comments": [      
+          {
+            "name": "Anjali", 
+            "comment": "Love the collection of stores!"
+            },      
+            {"name": "Naveen", 
+            "comment": "The food court has good options."
+          }   
+        ]
+  },
+  {
+    "name": "UB City",
+    "description": "UB City is a high-end luxury shopping destination in Bengaluru. It houses some of the most exclusive brands and features fine dining restaurants.",
+    "rating": 4.8,
+    "location": "Vittal Mallya Road, Bengaluru",
+    "comments": [
+      {
+        "name": "Asha", 
+        "comment": "Best place to shop for luxury brands!"
+      },
+      {
+        "name": "Vikram", 
+        "comment": "The ambience is great and the food is amazing."
+      }
+    ]
+  }
   ],
   "hotels_travel": [
     {
@@ -533,8 +583,8 @@
       ]
     },
     {
-      "name": "Christ University",
-      "description": "Christ University is a private university located in Bangalore. It offers undergraduate and graduate programs in various fields, including humanities, social sciences, science, commerce, and management.",
+      "name": "Christ College of Engineering",
+      "description": "Christ College of Engineering is a private university located in Bangalore. It offers undergraduate and graduate programs in various fields, including humanities, social sciences, science, commerce, and management.",
       "rating": 4.6,
       "location": "Hosur Road, Bengaluru, Karnataka",
       "comments": [
@@ -549,7 +599,7 @@
       ]
     },
     {
-      "name": "Indian Institute of Technology",
+      "name": "Indian Institute of Technology and Medicine",
       "description": "The Indian Institute of Technology is a premier engineering school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of engineering and technology.",
       "rating": 4.5,
       "location": "Krishnadevaraya Nagar, Bengaluru, Karnataka",
@@ -563,12 +613,72 @@
           "comment": "The labs and facilities here are very advanced and modern."
         }
       ]
-    }
+    },
+  {
+    "name": "R.V. College of Engineering (RVCE)",
+    "description": "RVCE is a premier engineering college located in Bangalore. It has a strong alumni network and is known for its excellent placements.",
+    "rating": 4.1,
+    "location": "Mysore Road, Bengaluru",
+    "comments": [
+      {"name": "Sneha", "comment": "The labs here are well-equipped and the faculty is very supportive."},
+      {"name": "Vikram", "comment": "The hackathons organized here are very challenging and fun."}
+    ]
+  },
+  {
+    "name": "Christ University",
+    "description": "Christ University is a private deemed university located in Bangalore. It has a diverse student population and offers a wide range of programs.",
+    "rating": 4.6,
+    "location": "Hosur Road, Bengaluru",
+    "comments": [
+      {"name": "Aditya", "comment": "The campus life here is amazing!"},
+      {"name": "Shruti", "comment": "The faculty is very experienced and knowledgeable."}
+    ]
+  },
+  {
+    "name": "Mount Carmel College",
+    "description": "Mount Carmel College is a women's college located in Bangalore. It offers a variety of undergraduate and postgraduate programs.",
+    "rating": 4.2,
+    "location": "Palace Road, Bengaluru",
+    "comments": [
+      {"name": "Priya", "comment": "The cultural events organized here are very vibrant and diverse."},
+      {"name": "Nikhil", "comment": "The faculty is very approachable and supportive."}
+    ]
+  },
+  {
+    "name": "Indian Institute of Arts (IIAs)",
+    "description": "IISc is a premier public research institute located in Bangalore. It is ranked consistently as one of the top institutes in the country.",
+    "rating": 4.7,
+    "location": "CV Raman Road, Bengaluru",
+    "comments": [
+      {"name": "Ravi", "comment": "The research facilities here are top-notch!"},
+      {"name": "Priya", "comment": "The campus is beautiful and the faculty is very supportive."}
+    ]
+  },
+  {
+    "name": "Institute of Management Bangalore (IMB)",
+    "description": "IIMB is a leading business school in India. It is renowned for its academic rigor and excellent faculty.",
+    "rating": 4.5,
+    "location": "Bannerghatta Road, Bengaluru",
+    "comments": [
+      {"name": "Sridhar", "comment": "The placements here are great!"},
+      {"name": "Anu", "comment": "The curriculum is very practical and prepares us for the industry."}
+    ]
+  },
+  {
+    "name": "National Law School of India University (NLSIU)",
+    "description": "NLSIU is a top law school located in Bangalore. It has produced many successful lawyers and judges over the years.",
+    "rating": 4.3,
+    "location": "Nagarbhavi, Bengaluru",
+    "comments": [
+      {"name": "Kavya", "comment": "The faculty is very knowledgeable and approachable."},
+      {"name": "Raj", "comment": "The moot court competitions here are very competitive and challenging."}
+    ]
+  }
   ],
   "hospital": [
     {
-      "name": "Apollo Hospitals",
-      "description": "Apollo Hospitals is one of the largest hospital chains in India, with a flagship hospital located in Bangalore. It offers a wide range of medical and surgical specialties.",
+      "name": "MediVeds Hospitals",
+      "description": "MediVeds Hospitals is one of the largest hospital chains in India, with a flagship hospital located in Bangalore. It offers a wide range of medical and surgical specialties.",
       "rating": 4.8,
       "location": "Bannerghatta Road, Bengaluru, Karnataka",
       "comments": [
@@ -583,8 +693,8 @@
       ]
     },
     {
-      "name": "Fortis Hospital",
-      "description": "Fortis Hospital is a chain of hospitals with a location in Bangalore. It offers comprehensive medical services, including diagnostics, surgery, and critical care.",
+      "name": "Mantrigan Hospital",
+      "description": "Mantrigan Hospital is a chain of hospitals with a location in Bangalore. It offers comprehensive medical services, including diagnostics, surgery, and critical care.",
       "rating": 4.7,
       "location": "Bannerghatta Road, Bengaluru, Karnataka",
       "comments": [
@@ -599,8 +709,8 @@
       ]
     },
     {
-      "name": "Manipal Hospital",
-      "description": "Manipal Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and orthopedics.",
+      "name": "Vayasaraya Hospital",
+      "description": "Vayasaraya Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and orthopedics.",
       "rating": 4.6,
       "location": "Old Airport Road, Bengaluru, Karnataka",
       "comments": [
@@ -631,8 +741,8 @@
       ]
     },
     {
-      "name": "Narayana Health",
-      "description": "Narayana Health is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, oncology, and urology.",
+      "name": "Supriya Health",
+      "description": "Supriya Health is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, oncology, and urology.",
       "rating": 4.4,
       "location": "Bommasandra, Bengaluru, Karnataka",
       "comments": [
@@ -643,6 +753,71 @@
         {
           "name": "Karen",
           "comment": "The facilities here are very spacious and well-equipped."
+        }
+      ]
+    },
+    {
+      "name": "Apollo Hospitals",
+      "description": "One of the largest hospital chains in Bangalore, offering a wide range of medical services and facilities.",
+      "rating": 4.5,
+      "location": "Bannerghatta Main Rd, Arekere, Bengaluru, Karnataka 560076",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "Had a great experience with the doctors and staff here."
+        },
+        {
+          "name": "Sarah",
+          "comment": "The facilities and services here are top-notch."
+        }
+      ]
+    },
+    {
+      "name": "Fortis Hospital",
+      "description": "A leading multi-speciality hospital in Bangalore, known for its expertise in cardiology and other areas.",
+      "rating": 4.2,
+      "location": "154/9, Bannerghatta Rd, Opposite IIM-B, Bengaluru, Karnataka 560076",
+      "comments": [
+        {
+          "name": "Mike",
+          "comment": "The doctors and staff here are very professional and caring."
+        },
+        {
+          "name": "Jennifer",
+          "comment": "I received excellent treatment and care during my stay here."
+        }
+      ]
+    },
+    {
+      "name": "Manipal Hospitals",
+      "description": "A well-known hospital chain in Bangalore, offering a wide range of medical services and facilities.",
+      "rating": 4.3,
+      "location": "98, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017",
+
+      "comments": [
+        {
+          "name": "Lisa",
+          "comment": "The doctors and staff here are very knowledgeable and helpful."
+        },
+        {
+          "name": "David",
+          "comment": "The facilities and services here are very good."
+        }
+      ]
+    },
+    {
+      "name": "Narayana Health",
+      "description": "A reputed hospital chain in Bangalore, known for its expertise in various medical fields.",
+      "rating": 4.1,
+      "location": "258/A, Bommasandra Industrial Area, Anekal Taluk, Bengaluru, Karnataka 560099",
+      "comments": [
+        {
+          "name": "Alex",
+          "comment": "I had a great experience with the doctors and staff here."
+        },
+        {
+          "name": "Emily",
+          "comment": "The services and facilities here are very good."
         }
       ]
     }
