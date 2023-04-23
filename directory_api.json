@@ -20,7 +20,7 @@
       "name": "ABC Motors",
       "description": "ABC Motors is a leading automobile dealer in Bangalore. We offer a wide range of cars at competitive prices and provide excellent after-sales service to our customers.",
       "rating": 4.5,
-      "location": "MG Road, Bangalore",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
           "name": "David",
@@ -76,7 +76,7 @@
       "name": "RST Auto Solutions",
       "description": "RST Auto Solutions is a one-stop-shop for all your car needs. We provide a range of services including car repair, maintenance, and customization.",
       "rating": 4.4,
-      "location": "Kalyan Nagar, Bangalore",
+      "location": "Whitefield, Bangalore",
       "comments": [
         {
           "name": "Michael",
@@ -92,7 +92,7 @@
       "name": "MotoWorx",
       "description": "MotoWorx is a well-known motorcycle dealership in Bangalore, offering a wide range of bikes and related services.",
       "rating": 4.0,
-      "location": "Jayanagar",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
           "name": "Robert Johnson",
@@ -108,7 +108,7 @@
       "name": "Tyre Empire",
       "description": "Tyre Empire is a leading tyre dealer in Bangalore, offering a wide range of tyres for cars, bikes and other vehicles.",
       "rating": 4.2,
-      "location": "Indiranagar",
+      "location": "Indiranagar, Bangalore",
       "comments": [
         {
           "name": "James Brown",
@@ -124,7 +124,7 @@
       "name": "Car Junction",
       "description": "Car Junction is a well-established used car dealer in Bangalore, offering a wide range of second-hand cars at affordable prices.",
       "rating": 3.8,
-      "location": "HSR Layout",
+      "location": "Malleshwaram, Bangalore",
       "comments": [
         {
           "name": "David Miller",
@@ -140,7 +140,7 @@
       "name": "Bike Nation",
       "description": "Bike Nation is a popular bike rental service in Bangalore, offering a wide range of bikes for rent at affordable prices.",
       "rating": 4.4,
-      "location": "Koramangala",
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
           "name": "Michael Brown",
@@ -158,7 +158,7 @@
       "name": "Cheesecake Factory",
       "description": "The Cheesecake Factory is a restaurant chain that offers a wide variety of dishes, including pasta, pizza, seafood, and, of course, cheesecake.",
       "rating": 4.5,
-      "location": "123 Main Street, Anytown, USA",
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
           "name": "John",
@@ -174,7 +174,7 @@
       "name": "Olive Garden",
       "description": "Olive Garden is an Italian-American restaurant chain that offers a variety of pasta dishes, as well as soups, salads, and other Italian-inspired fare.",
       "rating": 4.3,
-      "location": "456 Elm Street, Anytown, USA",
+      "location": "JP Nagar, Bangalore",
       "comments": [
         {
           "name": "Jane",
@@ -190,7 +190,7 @@
       "name": "Outback Steakhouse",
       "description": "Outback Steakhouse is a casual dining restaurant chain that offers a variety of steak, chicken, and seafood dishes, as well as salads, soups, and desserts.",
       "rating": 4.2,
-      "location": "789 Oak Street, Anytown, USA",
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
           "name": "Bill",
@@ -206,7 +206,7 @@
       "name": "Red Lobster",
       "description": "Red Lobster is a seafood restaurant chain that offers a variety of dishes featuring lobster, shrimp, crab, and other seafood options.",
       "rating": 4.1,
-      "location": "1010 Pine Street, Anytown, USA",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
           "name": "Tom",
@@ -222,7 +222,7 @@
       "name": "Chili's",
       "description": "Chili's is a casual dining restaurant chain that offers a variety of Tex-Mex and American dishes, as well as burgers, sandwiches, and salads.",
       "rating": 4.0,
-      "location": "1212 Maple Street, Anytown, USA",
+      "location": "Whitefield, Bangalore",
       "comments": [
         {
           "name": "Joe",
@@ -344,7 +344,7 @@
       "name": "UB CityHub",
       "description": "Luxury shopping and dining destination.",
       "rating": 4.8,
-      "location": "Vittal Mallya Road, Bengaluru",
+      "location": "Malleshwaram, Bangalore",
       "comments": [
         {
           "name": "David",
@@ -360,7 +360,7 @@
       "name": "Orion Mall",
       "description": "A mix of international and domestic brands in a spacious mall.",
       "rating": 4.4,
-      "location": "Rajajinagar, Bengaluru",
+      "location": "JP Nagar, Bangalore",
       "comments": [
         {
           "name": "Alex",
@@ -392,7 +392,7 @@
       "name": "Sophia Mall",
       "description": "One of the first malls in Bengaluru, with over 150 stores.",
       "rating": 3.8,
-      "location": "Magrath Road, Bengaluru",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
           "name": "Tom",
@@ -408,7 +408,7 @@
       "name": "Inorbit Mall",
       "description": "A family-friendly mall with a mix of shopping and entertainment options.",
       "rating": 4.0,
-      "location": "Whitefield, Bengaluru",
+      "location": "Indiranagar, Bangalore",
       "comments": [
         {
           "name": "Eric",
@@ -423,7 +423,7 @@
     {    "name": "Garuda Mall",   
          "description": "Garuda Mall is a popular shopping center located in the heart of Bengaluru. It features a variety of shops, restaurants, and a movie theater.",    
          "rating": 4.2,    
-         "location": "Magrath Road, Bengaluru",    
+         "location": "Whitefield, Bangalore",    
          "comments": [      
           {
             "name": "Anjali", 
@@ -438,7 +438,7 @@
     "name": "UB City",
     "description": "UB City is a high-end luxury shopping destination in Bengaluru. It houses some of the most exclusive brands and features fine dining restaurants.",
     "rating": 4.8,
-    "location": "Vittal Mallya Road, Bengaluru",
+    "location": "JP Nagar, Bangalore",
     "comments": [
       {
         "name": "Asha", 
@@ -456,7 +456,7 @@
       "name": "Taj West End",
       "description": "The Taj West End is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
       "rating": 4.9,
-      "location": "Race Course Road, Bengaluru, Karnataka",
+      "location": "Malleshwaram, Bengaluru, Karnataka",
       "comments": [
         {
           "name": "John",
@@ -472,7 +472,7 @@
       "name": "The Oberoi",
       "description": "The Oberoi is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
       "rating": 4.8,
-      "location": "MG Road, Bengaluru, Karnataka",
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
           "name": "Jane",
@@ -488,7 +488,7 @@
       "name": "ITC Windsor",
       "description": "ITC Windsor is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
       "rating": 4.7,
-      "location": "Sankey Road, Bengaluru, Karnataka",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
           "name": "Bill",
@@ -504,7 +504,7 @@
       "name": "The Leela Palace",
       "description": "The Leela Palace is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
       "rating": 4.6,
-      "location": "Old Airport Road, Bengaluru, Karnataka",
+      "location": "Whitefield, Bangalore",
       "comments": [
         {
           "name": "Tom",
@@ -520,7 +520,7 @@
       "name": "JW Marriott",
       "description": "JW Marriott is a luxury hotel located in the heart of Bangalore. It offers a range of rooms and suites, as well as restaurants, a spa, and outdoor pool.",
       "rating": 4.5,
-      "location": "Vittal Mallya Road, Bengaluru, Karnataka",
+      "location": "JP Nagar, Bangalore",
       "comments": [
         {
           "name": "Joe",
@@ -538,7 +538,7 @@
       "name": "Indian Institute of Science",
       "description": "The Indian Institute of Science is a public research institution located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of science and engineering.",
       "rating": 4.9,
-      "location": "CV Raman Road, Bengaluru, Karnataka",
+      "location": "Malleshwaram, Bangalore",
       "comments": [
         {
           "name": "John",
@@ -554,7 +554,7 @@
       "name": "Indian Institute of Management",
       "description": "The Indian Institute of Management is a premier business school located in Bangalore. It offers a range of management programs, including MBA, Executive MBA, and PhD.",
       "rating": 4.8,
-      "location": "Bannerghatta Road, Bengaluru, Karnataka",
+      "location": "Malleshwaram, Bangalore",
       "comments": [
         {
           "name": "Jane",
@@ -570,7 +570,7 @@
       "name": "National Law School of India University",
       "description": "The National Law School of India University is a premier law school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in law.",
       "rating": 4.7,
-      "location": "Nagarbhavi, Bengaluru, Karnataka",
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
           "name": "Bill",
@@ -586,7 +586,7 @@
       "name": "Christ College of Engineering",
       "description": "Christ College of Engineering is a private university located in Bangalore. It offers undergraduate and graduate programs in various fields, including humanities, social sciences, science, commerce, and management.",
       "rating": 4.6,
-      "location": "Hosur Road, Bengaluru, Karnataka",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
           "name": "Tom",
@@ -602,7 +602,7 @@
       "name": "Indian Institute of Technology and Medicine",
       "description": "The Indian Institute of Technology is a premier engineering school located in Bangalore. It offers undergraduate, graduate, and doctoral programs in various fields of engineering and technology.",
       "rating": 4.5,
-      "location": "Krishnadevaraya Nagar, Bengaluru, Karnataka",
+      "location": "Indiranagar, Bangalore",
       "comments": [
         {
           "name": "Joe",
@@ -618,7 +618,7 @@
     "name": "R.V. College of Engineering (RVCE)",
     "description": "RVCE is a premier engineering college located in Bangalore. It has a strong alumni network and is known for its excellent placements.",
     "rating": 4.1,
-    "location": "Mysore Road, Bengaluru",
+    "location": "Whitefield, Bangalore",
     "comments": [
       {"name": "Sneha", "comment": "The labs here are well-equipped and the faculty is very supportive."},
       {"name": "Vikram", "comment": "The hackathons organized here are very challenging and fun."}
@@ -628,7 +628,7 @@
     "name": "Christ University",
     "description": "Christ University is a private deemed university located in Bangalore. It has a diverse student population and offers a wide range of programs.",
     "rating": 4.6,
-    "location": "Hosur Road, Bengaluru",
+    "location": "JP Nagar, Bangalore",
     "comments": [
       {"name": "Aditya", "comment": "The campus life here is amazing!"},
       {"name": "Shruti", "comment": "The faculty is very experienced and knowledgeable."}
@@ -638,7 +638,7 @@
     "name": "Mount Carmel College",
     "description": "Mount Carmel College is a women's college located in Bangalore. It offers a variety of undergraduate and postgraduate programs.",
     "rating": 4.2,
-    "location": "Palace Road, Bengaluru",
+    "location": "Malleshwaram, Bangalore",
     "comments": [
       {"name": "Priya", "comment": "The cultural events organized here are very vibrant and diverse."},
       {"name": "Nikhil", "comment": "The faculty is very approachable and supportive."}
@@ -648,7 +648,7 @@
     "name": "Indian Institute of Arts (IIAs)",
     "description": "IISc is a premier public research institute located in Bangalore. It is ranked consistently as one of the top institutes in the country.",
     "rating": 4.7,
-    "location": "CV Raman Road, Bengaluru",
+    "location": "Koramangala, Bangalore",
     "comments": [
       {"name": "Ravi", "comment": "The research facilities here are top-notch!"},
       {"name": "Priya", "comment": "The campus is beautiful and the faculty is very supportive."}
@@ -658,7 +658,7 @@
     "name": "Institute of Management Bangalore (IMB)",
     "description": "IIMB is a leading business school in India. It is renowned for its academic rigor and excellent faculty.",
     "rating": 4.5,
-    "location": "Bannerghatta Road, Bengaluru",
+    "location": "Koramangala, Bangalore",
     "comments": [
       {"name": "Sridhar", "comment": "The placements here are great!"},
       {"name": "Anu", "comment": "The curriculum is very practical and prepares us for the industry."}
@@ -668,7 +668,7 @@
     "name": "National Law School of India University (NLSIU)",
     "description": "NLSIU is a top law school located in Bangalore. It has produced many successful lawyers and judges over the years.",
     "rating": 4.3,
-    "location": "Nagarbhavi, Bengaluru",
+    "location": "Jayanagar, Bangalore",
     "comments": [
       {"name": "Kavya", "comment": "The faculty is very knowledgeable and approachable."},
       {"name": "Raj", "comment": "The moot court competitions here are very competitive and challenging."}
@@ -680,7 +680,7 @@
       "name": "MediVeds Hospitals",
       "description": "MediVeds Hospitals is one of the largest hospital chains in India, with a flagship hospital located in Bangalore. It offers a wide range of medical and surgical specialties.",
       "rating": 4.8,
-      "location": "Bannerghatta Road, Bengaluru, Karnataka",
+      "location": "Indiranagar, Bangalore",
       "comments": [
         {
           "name": "John",
@@ -696,7 +696,7 @@
       "name": "Mantrigan Hospital",
       "description": "Mantrigan Hospital is a chain of hospitals with a location in Bangalore. It offers comprehensive medical services, including diagnostics, surgery, and critical care.",
       "rating": 4.7,
-      "location": "Bannerghatta Road, Bengaluru, Karnataka",
+      "location": "JP Nagar, Bangalore",
       "comments": [
         {
           "name": "Jane",
@@ -712,7 +712,7 @@
       "name": "Vayasaraya Hospital",
       "description": "Vayasaraya Hospital is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, neurology, and orthopedics.",
       "rating": 4.6,
-      "location": "Old Airport Road, Bengaluru, Karnataka",
+      "location": "Malleshwaram, Bangalore",
       "comments": [
         {
           "name": "Bill",
@@ -744,7 +744,7 @@
       "name": "Supriya Health",
       "description": "Supriya Health is a chain of hospitals with a location in Bangalore. It offers a range of medical specialties, including cardiology, oncology, and urology.",
       "rating": 4.4,
-      "location": "Bommasandra, Bengaluru, Karnataka",
+      "location": "Koramangala, Bangalore",
       "comments": [
         {
           "name": "Joe",
@@ -760,7 +760,7 @@
       "name": "Apollo Hospitals",
       "description": "One of the largest hospital chains in Bangalore, offering a wide range of medical services and facilities.",
       "rating": 4.5,
-      "location": "Bannerghatta Main Rd, Arekere, Bengaluru, Karnataka 560076",
+      "location": "Jayanagar, Bangalore",
       "comments": [
         {
           "name": "John",
@@ -776,7 +776,7 @@
       "name": "Fortis Hospital",
       "description": "A leading multi-speciality hospital in Bangalore, known for its expertise in cardiology and other areas.",
       "rating": 4.2,
-      "location": "154/9, Bannerghatta Rd, Opposite IIM-B, Bengaluru, Karnataka 560076",
+      "location": "JP Nagar, Opposite IIM-B, Bengaluru, Karnataka 560076",
       "comments": [
         {
           "name": "Mike",
@@ -792,7 +792,7 @@
       "name": "Manipal Hospitals",
       "description": "A well-known hospital chain in Bangalore, offering a wide range of medical services and facilities.",
       "rating": 4.3,
-      "location": "98, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017",
+      "location": "Malleshwaram, HAL Old Airport Rd, Kodihalli, Bengaluru, Karnataka 560017",
 
       "comments": [
         {
@@ -809,7 +809,7 @@
       "name": "Narayana Health",
       "description": "A reputed hospital chain in Bangalore, known for its expertise in various medical fields.",
       "rating": 4.1,
-      "location": "258/A, Bommasandra Industrial Area, Anekal Taluk, Bengaluru, Karnataka 560099",
+      "location": "Koramangala, Bommasandra Industrial Area, Anekal Taluk, Bengaluru, Karnataka 560099",
       "comments": [
         {
           "name": "Alex",
